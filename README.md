@@ -11,3 +11,8 @@ Avances en el microservicio:
 
 Falta :
 Agregar metodos en Service y realizar los endpoints en Controller para probarse en Postman
+
+
+
+http://localhost:8083/doc/swagger-ui/index.html#/Pedidos/obtenerPedidosPorUsuario
+
